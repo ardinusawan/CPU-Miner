@@ -8,10 +8,10 @@ $ sudo chmod +x -R .
 
 Installing dependency
 ```sh
-$ sudo etn_linux_miner.sh
+$ sudo ./etn_linux_miner.sh
 ```
 
 Run miner
 ```sh
-$ sudo etn_run.sh
+$ sudo ./etn_run.sh
 ```
